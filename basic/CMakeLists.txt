@@ -1,3 +1,5 @@
 project(basic)
 add_subdirectory(1_smart_pointer)
 add_subdirectory(2_ref_pointer)
+add_subdirectory(3_static_thing)
+add_subdirectory(4_const_thing)
