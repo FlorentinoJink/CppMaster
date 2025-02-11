@@ -1,0 +1,3 @@
+project(basic)
+add_subdirectory(1_smart_pointer)
+add_subdirectory(2_ref_pointer)
